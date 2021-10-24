@@ -1,0 +1,14 @@
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\bin\Debug\netstandard2.0\LearnXamarin1.deps.json
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\bin\Debug\netstandard2.0\LearnXamarin1.dll
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\bin\Debug\netstandard2.0\ref\LearnXamarin1.dll
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\bin\Debug\netstandard2.0\LearnXamarin1.pdb
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.csproj.AssemblyReference.cache
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.AssemblyInfoInputs.cache
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.AssemblyInfo.cs
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.csproj.CoreCompileInputs.cache
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.dll
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\ref\LearnXamarin1.dll
+C:\Users\MARVEL AKAR\source\repos\LearnXamarin1\LearnXamarin1\LearnXamarin1\obj\Debug\netstandard2.0\LearnXamarin1.pdb
